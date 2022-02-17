@@ -1,0 +1,1 @@
+aws iam create-instance-profile --instance-profile-name AWSCookbook106InstanceProfile
