@@ -1,0 +1,2 @@
+#Gatewat NAT
+ - é um serviço de conversão de endereços de rede. Podemos utilizá-lo para que instancias em uma sub-rede privada, possam se conectar a serviços fora da vpc, mas os serviços externos não podem iniciar conexão com essas instancias.

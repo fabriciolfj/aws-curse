@@ -1,0 +1,1 @@
+aws iam create-policy --policy-name AWSCookbook108SecretAccess --policy-document file://secret-access-policy.json

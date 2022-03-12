@@ -1,0 +1,1 @@
+sed -e "s|SECRET_ARN|$SECRET_ARN|g" secret-access-policy-template.json > secret-access-policy.json

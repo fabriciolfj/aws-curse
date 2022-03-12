@@ -1,0 +1,1 @@
+aws iam attach-role-policy --policy-arn arn:aws:iam::882275682131:policy/AWSCookbook108SecretAccess --role-name AWSCookbook101Role
