@@ -1,0 +1,1 @@
+aws s3 cp book_cover.png s3://test-flfj124
